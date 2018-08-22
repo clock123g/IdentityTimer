@@ -8,3 +8,13 @@ U:\users\in hotmail\source\repos\Identity2MTimer\Identity2MTimer\obj\Debug\Ident
 U:\users\in hotmail\source\repos\Identity2MTimer\Identity2MTimer\obj\Debug\Identity2MTimer.csproj.CoreCompileInputs.cache
 U:\users\in hotmail\source\repos\Identity2MTimer\Identity2MTimer\obj\Debug\Identity2MTimer.exe
 U:\users\in hotmail\source\repos\Identity2MTimer\Identity2MTimer\obj\Debug\Identity2MTimer.pdb
+U:\Users\in hotmail\source\repos\IdentityTimer\bin\Debug\Identity2MTimer.exe.config
+U:\Users\in hotmail\source\repos\IdentityTimer\bin\Debug\Identity2MTimer.exe
+U:\Users\in hotmail\source\repos\IdentityTimer\bin\Debug\Identity2MTimer.pdb
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.csprojAssemblyReference.cache
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.Form1.resources
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.Properties.Resources.resources
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.csproj.GenerateResource.cache
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.csproj.CoreCompileInputs.cache
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.exe
+U:\Users\in hotmail\source\repos\IdentityTimer\obj\Debug\Identity2MTimer.pdb
