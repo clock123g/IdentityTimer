@@ -1,0 +1,5 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/CSNW_SoftwareDevelopManager/.vs/CSNW_SoftwareDevelopManager/v15/Server/sqlite3
